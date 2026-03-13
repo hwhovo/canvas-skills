@@ -13,15 +13,15 @@ Production-ready AI agent skills for canvas rendering, SVG manipulation, and PDF
 ## Install
 
 ```bash
-npx skills add YOUR_GITHUB_USERNAME/canvas-skills
+npx skills add hwhovo/canvas-skills
 ```
 
 Or install individual skills:
 
 ```bash
-npx skills add YOUR_GITHUB_USERNAME/canvas-skills/fabricjs-canvas
-npx skills add YOUR_GITHUB_USERNAME/canvas-skills/svg-editor
-npx skills add YOUR_GITHUB_USERNAME/canvas-skills/pdf-guru
+npx skills add hwhovo/canvas-skills/fabricjs-canvas
+npx skills add hwhovo/canvas-skills/svg-editor
+npx skills add hwhovo/canvas-skills/pdf-guru
 ```
 
 ## Compatibility
